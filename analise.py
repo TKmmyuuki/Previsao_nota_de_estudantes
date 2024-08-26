@@ -79,3 +79,5 @@ precisao = accuracy_score(result_teste, predicao)
 
 #usando todos os critérios
 print("A precisão é de: {:.2f}%".format(precisao * 100))
+#63,64%
+#63,64%
