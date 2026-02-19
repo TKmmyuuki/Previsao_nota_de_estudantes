@@ -76,7 +76,7 @@ col1, col2 = st.columns(2)
 with col1:
     st.markdown("[Instagram da Liga](https://www.instagram.com/ligadsunicamp/)")
 with col2:
-    st.markdown("[GitHub do Projeto](https://github.com/TKmmyuuki/Crop-analytics)")
+    st.markdown("[GitHub do Projeto](https://github.com/TKmmyuuki/Previsao_nota_de_estudantes.git)")
 
 
 # Centralizando o botão
